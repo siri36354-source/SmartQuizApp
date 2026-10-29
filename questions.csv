@@ -1,0 +1,25 @@
+topic,question,answer
+Java,What keyword makes a variable constant?,final
+Java,Which collection stores key-value pairs?,HashMap
+Java,What keyword is used to inherit from a class?,extends
+Java,What is the entry point method of a Java program called?,main
+Java,Which keyword creates a new object?,new
+Java,What is the default value of an int field?,0
+Java,Which interface must a class implement to be sorted naturally?,Comparable
+Java,What keyword is used to handle exceptions?,catch
+Java,Which class is used to read user input from the console?,Scanner
+Java,What is the parent class of all Java classes?,Object
+Math,What is 7 x 8?,56
+Math,What is the square root of 81?,9
+Math,What is 15% of 200?,30
+Math,What is 2 to the power of 10?,1024
+Math,What is 144 divided by 12?,12
+Math,What is the value of 5 factorial?,120
+Math,How many degrees are in a right angle?,90
+Math,What is the next prime number after 7?,11
+Science,What is the chemical symbol for water?,H2O
+Science,What planet is known as the Red Planet?,Mars
+Science,What gas do plants absorb from the air?,Carbon dioxide
+Science,What is the center of an atom called?,Nucleus
+Science,How many bones are in the adult human body?,206
+Science,What is the closest star to Earth?,Sun
